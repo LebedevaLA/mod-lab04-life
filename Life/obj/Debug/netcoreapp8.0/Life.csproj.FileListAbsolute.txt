@@ -1,0 +1,15 @@
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\bin\Debug\netcoreapp8.0\Life.exe
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\bin\Debug\netcoreapp8.0\Life.deps.json
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\bin\Debug\netcoreapp8.0\Life.runtimeconfig.json
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\bin\Debug\netcoreapp8.0\Life.dll
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\bin\Debug\netcoreapp8.0\Life.pdb
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.AssemblyInfoInputs.cache
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.AssemblyInfo.cs
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.csproj.CoreCompileInputs.cache
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.sourcelink.json
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.dll
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\refint\Life.dll
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.pdb
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\Life.genruntimeconfig.cache
+C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\obj\Debug\netcoreapp8.0\ref\Life.dll
