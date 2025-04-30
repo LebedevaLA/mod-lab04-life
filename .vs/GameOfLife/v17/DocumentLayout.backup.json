@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2784D6AA-7C0C-48E6-ADBE-96FD88A203DB}|GameOfLife.Tests\\GameOfLife.Tests.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\gameoflife.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2784D6AA-7C0C-48E6-ADBE-96FD88A203DB}|GameOfLife.Tests\\GameOfLife.Tests.csproj|solutionrelative:gameoflife.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\GameOfLife.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GameOfLife.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\GameOfLife.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "GameOfLife.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAuwP0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:02:49.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\Program.cs",
+              "RelativeDocumentMoniker": "Life\\Program.cs",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\Program.cs",
+              "RelativeToolTip": "Life\\Program.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAmwAsBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:14:30.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
