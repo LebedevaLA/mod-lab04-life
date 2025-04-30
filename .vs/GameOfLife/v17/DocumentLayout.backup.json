@@ -7,6 +7,34 @@
       "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\statistic.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\statistic.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\square.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\square.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\lake.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\lake.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\gun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\gun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\glider.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\glider.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\eater.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\eater.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\life\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553EF050-2D6A-4BFA-9E64-165BEBEF9B01}|Life\\Life.csproj|solutionrelative:life\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2784D6AA-7C0C-48E6-ADBE-96FD88A203DB}|GameOfLife.Tests\\GameOfLife.Tests.csproj|c:\\users\\armok\\documents\\lebedeva\\iasr\\vslife\\gameoflife.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2784D6AA-7C0C-48E6-ADBE-96FD88A203DB}|GameOfLife.Tests\\GameOfLife.Tests.csproj|solutionrelative:gameoflife.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +46,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Statistic.txt",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\Statistic.txt",
+              "RelativeDocumentMoniker": "Life\\Statistic.txt",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\Statistic.txt",
+              "RelativeToolTip": "Life\\Statistic.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-30T14:38:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "square.json",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\square.json",
+              "RelativeDocumentMoniker": "Life\\square.json",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\square.json",
+              "RelativeToolTip": "Life\\square.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:38:35.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lake.json",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\lake.json",
+              "RelativeDocumentMoniker": "Life\\lake.json",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\lake.json",
+              "RelativeToolTip": "Life\\lake.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:38:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gun.json",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\gun.json",
+              "RelativeDocumentMoniker": "Life\\gun.json",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\gun.json",
+              "RelativeToolTip": "Life\\gun.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:37:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "glider.json",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\glider.json",
+              "RelativeDocumentMoniker": "Life\\glider.json",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\glider.json",
+              "RelativeToolTip": "Life\\glider.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:37:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "eater.json",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\eater.json",
+              "RelativeDocumentMoniker": "Life\\eater.json",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\eater.json",
+              "RelativeToolTip": "Life\\eater.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:36:59.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\config.json",
+              "RelativeDocumentMoniker": "Life\\config.json",
+              "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\config.json",
+              "RelativeToolTip": "Life\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:36:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\GameOfLife.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "GameOfLife.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\GameOfLife.Tests\\UnitTest1.cs",
               "RelativeToolTip": "GameOfLife.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAOgAAAAAAAAAAAAuwP0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwEYBAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T01:02:49.847Z",
               "EditorCaption": ""
@@ -41,7 +160,7 @@
               "RelativeDocumentMoniker": "Life\\Program.cs",
               "ToolTip": "C:\\Users\\armok\\Documents\\lebedeva\\IASR\\VSLife\\Life\\Program.cs",
               "RelativeToolTip": "Life\\Program.cs",
-              "ViewState": "AgIAAPsAAAAAAAAAAAAmwAsBAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADABAAAAAAAAAAAAwEMBAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T19:14:30.062Z",
               "EditorCaption": ""
