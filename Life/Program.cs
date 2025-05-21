@@ -523,7 +523,7 @@ namespace cli_life
             }
 
 
-            string fileName = @"C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\Statistic.txt";
+            string fileName = @"C:\Users\armok\Documents\lebedeva\IASR\VSLife\Life\data.txt";
             using (StreamWriter writer = new StreamWriter(fileName))
             {
                 writer.WriteLine("Density,StableGeneration");
